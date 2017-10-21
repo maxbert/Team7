@@ -74,7 +74,7 @@
               <h4 class="card-title">
                 <a href="#">Lourdes Agapito</a>
               </h4>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
+              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae?  dolorem!</p>
             </div>
           </div>
         </div>
@@ -203,7 +203,7 @@ atque, sit eius in voluptates, nemo repellat fugiat excepturi! Nemo, esse.</p>
           <a class="page-link" href="#">1</a>
         </li>
         <li class="page-item">
-          <a class="page-link" href="#">2</a>
+          <a class="page-link" href="*">2</a>
         </li>
         <li class="page-item">
           <a class="page-link" href="#">3</a>
