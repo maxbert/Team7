@@ -74,7 +74,7 @@
               <h4 class="card-title">
                 <a href="http://www0.cs.ucl.ac.uk/staff/L.Agapito/">Lourdes Agapito</a>
               </h4>
-              <p class="card-text">Academic staff<br />Area of unterest</p>
+              <p class="card-text"><b>Academic staff</b><br />Area of unterest</p>
             </div>
           </div>
         </div>
@@ -85,7 +85,7 @@
               <h4 class="card-title">
                 <a href="#">Gabriel J. Brostow</a>
               </h4>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+              <p class="card-text"><b>Academic staff</b><br />Area of unterest</p>
             </div>
           </div>
         </div>
@@ -96,7 +96,7 @@
               <h4 class="card-title">
                 <a href="#">Simon Julier</a>
               </h4>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error quod sed cumque, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure perspiciatis mollitia recusandae vero vel quam!</p>
+              <p class="card-text"><b>Academic staff</b><br />Area of unterest</p>
             </div>
           </div>
         </div>
@@ -107,7 +107,7 @@
               <h4 class="card-title">
                 <a href="#">Niloy J. Mitra</a>
               </h4>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+              <p class="card-text"><b>Academic staff</b><br />Area of unterest</p>
             </div>
           </div>
         </div>
@@ -116,9 +116,9 @@
             <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">
-                <a href="#">Tobias Ritschell</a>
+                <a href="#">Tobias Ritschel</a>
               </h4>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+              <p class="card-text"><b>Academic staff</b><br />Area of unterest</p>
             </div>
           </div>
         </div>
@@ -129,7 +129,7 @@
               <h4 class="card-title">
                 <a href="#">Mel Slater</a>
               </h4>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque earum nostrum suscipit ducimus nihil provident, perferendis rem illo, voluptate atque, sit eius in voluptates, nemo repellat fugiat excepturi! Nemo, esse.</p>
+              <p class="card-text"><b>Academic staff</b><br />Area of unterest</p>
             </div>
           </div>
         </div>
@@ -141,9 +141,7 @@
               <h4 class="card-title">
                 <a href="#">Mandayam Srinivasan (Srini)</a>
               </h4>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing eli\
-t. Itaque earum nostrum suscipit ducimus nihil provident, perferendis rem illo, voluptate \
-atque, sit eius in voluptates, nemo repellat fugiat excepturi! Nemo, esse.</p>
+              <p class="card-text"><b>Academic staff</b><br />Area of unterest</p>
             </div>
           </div>
         </div>
@@ -155,9 +153,7 @@ atque, sit eius in voluptates, nemo repellat fugiat excepturi! Nemo, esse.</p>
               <h4 class="card-title">
                 <a href="#">Anthony Steed</a>
               </h4>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing eli\
-t. Itaque earum nostrum suscipit ducimus nihil provident, perferendis rem illo, voluptate \
-atque, sit eius in voluptates, nemo repellat fugiat excepturi! Nemo, esse.</p>
+              <p class="card-text"><b>Academic staff</b><br />Area of unterest</p>
             </div>
           </div>
         </div>
@@ -169,9 +165,7 @@ atque, sit eius in voluptates, nemo repellat fugiat excepturi! Nemo, esse.</p>
               <h4 class="card-title">
                 <a href="#">Tim A. Weyrich</a>
               </h4>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing eli\
-t. Itaque earum nostrum suscipit ducimus nihil provident, perferendis rem illo, voluptate \
-atque, sit eius in voluptates, nemo repellat fugiat excepturi! Nemo, esse.</p>
+              <p class="card-text"><b>Academic staff</b><br />Area of unterest</p>
             </div>
           </div>
         </div>
@@ -181,11 +175,9 @@ atque, sit eius in voluptates, nemo repellat fugiat excepturi! Nemo, esse.</p>
 ></a>
             <div class="card-body">
               <h4 class="card-title">
-                <a href="#">Ifat Yaisn</a>
+                <a href="#">Ifat Yasin</a>
               </h4>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing eli\
-t. Itaque earum nostrum suscipit ducimus nihil provident, perferendis rem illo, voluptate \
-atque, sit eius in voluptates, nemo repellat fugiat excepturi! Nemo, esse.</p>
+              <p class="card-text"><b>Academic staff</b><br />Area of unterest</p>
             </div>
           </div>
         </div>
