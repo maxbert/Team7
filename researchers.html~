@@ -20,10 +20,11 @@
 
   <body>
 
-    <!-- Navigation -->
-    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
+     <!-- Navigation -->
+    <span style="background-color:#648db6; position:fixed; top:0;right:0;left:0;height:50px;z-index:1040;"><img height="50px" src="logo.png" style="float:right;"></span>
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top" style="position:fixed; top:50px;right:0;left:0;z-index:1040;">
       <div class="container">
-        <a class="navbar-brand" href="index.html">Virtual Enviroments and Computer Graphics</a>
+        <a class="navbar-brand" href="index.html">VECG</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -53,7 +54,7 @@
     </nav>
 
     <!-- Page Content -->
-    <div class="container">
+    <div class="container" style="padding-top:40px;">
 
       <!-- Page Heading/Breadcrumbs -->
       <h1 class="mt-4 mb-3">VECG staff 
@@ -72,64 +73,100 @@
             <a><img class="card-img-top" src="http://www0.cs.ucl.ac.uk/staff/L.Agapito/images/20071114-lourdesAgapito-small.jpg" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">
-                <a href="http://www0.cs.ucl.ac.uk/staff/L.Agapito/">Lourdes Agapito</a>
+                <a href="http://www0.cs.ucl.ac.uk/staff/L.Agapito/">Dr. Lourdes Agapito</a>
               </h4>
-              <p class="card-text"><b>Academic staff</b><br />Area of interest</p>
+              <p class="card-text"><b>Academic staff</b><br />Professor of 3D Vision<br />Research is mainly focused on the information from the video acquired from a single moving camera.</p>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 portfolio-item">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+            <a href="#"><img class="card-img-top" src="http://vecg.cs.ucl.ac.uk/images/staff/G.Brostow.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">
-                <a href="#">Gabriel J. Brostow</a>
+                <a href="http://www0.cs.ucl.ac.uk/staff/G.Brostow/">Dr. Gabriel J. Brostow</a>
               </h4>
-              <p class="card-text"><b>Academic staff</b><br />Area of interest</p>
+              <p class="card-text"><b>Academic staff</b><br />Reader in Computer Science<br />Research is focused on problems related to Computer Vision and Computer Graphics.</p>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 portfolio-item">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+            <a href="#"><img class="card-img-top" src="http://www0.cs.ucl.ac.uk/people/photos/S.Julier.jpg" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">
-                <a href="#">Simon Julier</a>
+                <a href="http://www.cs.ucl.ac.uk/people/S.Julier.html/">Simon Julier</a>
               </h4>
-              <p class="card-text"><b>Academic staff</b><br />Area of interest</p>
+              <p class="card-text"><b>Academic staff</b><br />Reader in Situation Awereness System<br />Reasearch is focused on Mixed and Augmented Reality, User Interfaces, Distributed and Multi-Target Tracking, SLAM. Object Detection and Recognition, Scene Understanding.</p>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 portfolio-item">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+            <a href="#"><img class="card-img-top" src="http://www0.cs.ucl.ac.uk/staff/n.mitra/images/niloy_may_13.jpg" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">
-                <a href="#">Niloy J. Mitra</a>
+                <a href="http://www0.cs.ucl.ac.uk/staff/N.Mitra/">Prof Niloy J. Mitra</a>
               </h4>
-              <p class="card-text"><b>Academic staff</b><br />Area of interest</p>
+              <p class="card-text"><b>Academic staff</b><br />Professor of Geometry Processing<br />Research is focused on developing computational frameworks to extract high-level geometric abstractions from unorganized and heterogeneous 3D data.</p>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 portfolio-item">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+            <a href="#"><img class="card-img-top" src="http://www3.imperial.ac.uk/newseventsimages?p_image_type=MEDIUM&p_image_id=36876" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">
-                <a href="#">Tobias Ritschel</a>
+                <a href="http://www.homepages.ucl.ac.uk/~ucactri/">Dr.-Ing. Tobias Ritschel</a>
               </h4>
-              <p class="card-text"><b>Academic staff</b><br />Area of interest</p>
+              <p class="card-text"><b>Academic staff</b><br />Senior Lecturer in Computer Science<br />Research is focused on Interactive Global Illumination, Perceptual Graphics, Non-physical Graphics and Data-driven Graphics</p>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 portfolio-item">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+            <a href="#"><img class="card-img-top" src="http://www0.cs.ucl.ac.uk/people/photos/M.Slater.gif" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">
-                <a href="#">Mel Slater</a>
+                <a href="http://www0.cs.ucl.ac.uk/staff/m.slater/Mel_Slaters_Home_Page/Home.html">Prof. Mel Slater</a>
               </h4>
-              <p class="card-text"><b>Academic staff</b><br />Area of interest</p>
+              <p class="card-text"><b>Academic staff</b><br />Professor of Virtual Environments<br />Research is focused on the question of what makes virtual reality work, use of virtual reality to create social scenarios and the interface between computer science  and neuroscience.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="http://www0.cs.ucl.ac.uk/people/photos/S.Srinivasan.jpg" alt=""\
+></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="http://www0.cs.ucl.ac.uk/people/S.Srinivasan.html">Prof. Mandayam Srinivasan (Srini)</a>
+              </h4>
+              <p class="card-text"><b>Academic staff</b><br />Professor of Haptics<br /></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="http://www0.cs.ucl.ac.uk/people/photos/A.Steed.jpg" alt=""\
+></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="https://wp.cs.ucl.ac.uk/anthonysteed/">Prof. Anthony Steed</a>
+              </h4>
+              <p class="card-text"><b>Academic staff</b><br />Professor of Virtual Environments and Computer Graphics<br />Research is focused on real-time interactive virtual environments, mixed-reality systems, large-scale models and collaboration between immersive facilities.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="http://www0.cs.ucl.ac.uk/people/photos/T.Weyrich.jpg" alt=""\
+></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="http://reality.cs.ucl.ac.uk/weyrich.html">Prof. Tim A. Weyrich</a>
+              </h4>
+              <p class="card-text"><b>Academic staff</b><br />Professor of Visual Computing<br />Research is focused on Appearance Modelling abd Fabrication, Point-based Graphics, 3D Reconstruction, Cultural Heritage Analysis and Digital Humanities.</p>
             </div>
           </div>
         </div>
@@ -139,45 +176,9 @@
 ></a>
             <div class="card-body">
               <h4 class="card-title">
-                <a href="#">Mandayam Srinivasan (Srini)</a>
+                <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=IYASI22">Dr. Ifat Yasin</a>
               </h4>
-              <p class="card-text"><b>Academic staff</b><br />Area of interest</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 portfolio-item">
-          <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""\
-></a>
-            <div class="card-body">
-              <h4 class="card-title">
-                <a href="#">Anthony Steed</a>
-              </h4>
-              <p class="card-text"><b>Academic staff</b><br />Area of interest</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 portfolio-item">
-          <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""\
-></a>
-            <div class="card-body">
-              <h4 class="card-title">
-                <a href="#">Tim A. Weyrich</a>
-              </h4>
-              <p class="card-text"><b>Academic staff</b><br />Area of interest</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 portfolio-item">
-          <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""\
-></a>
-            <div class="card-body">
-              <h4 class="card-title">
-                <a href="#">Ifat Yasin</a>
-              </h4>
-              <p class="card-text"><b>Academic staff</b><br />Area of interest</p>
+              <p class="card-text"><b>Academic staff</b><br />Senior lecturer<br />Research is focused on using a range of methodologies to understand human auditory perception.</p>
             </div>
           </div>
         </div>
