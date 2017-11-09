@@ -1,0 +1,128 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>History- VECG</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/modern-business.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <!-- Navigation -->
+    <span style="background-color:#648db6; position:fixed; top:0;right:0;left:0;height:50px;z-index:1040;"><img height="50px" src="logo.png" style="float:right;"></span>
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top" style="position:fixed; top:50px;right:0;left:0;z-index:1040;">
+      <div class="container">
+        <a class="navbar-brand" href="index.html">VECG</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="about.html">About VECG</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="current-projects.html">Current Research Projects</a>
+            </li>
+            <li class="nav-item">
+
+                <a class="nav-link" href="researchers.html">Researchers</a>
+            </li>
+	     <li class="nav-item">
+
+                <a class="nav-link" href="history.html">History</a>
+             </li>
+	     
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container" style="padding-top:40px;">
+
+      <!-- Page Heading/Breadcrumbs -->
+      <h1 class="mt-4 mb-3">VECG
+        <small>History</small>
+      </h1>
+
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="index.html">Home</a>
+        </li>
+        <li class="breadcrumb-item active">History</li>
+      </ol>
+
+      <!-- Image Header -->
+      <img class="img-fluid rounded mb-4" src="https://cdn0.vox-cdn.com/uploads/chorus_asset/file/6122823/vr_buying_guide_160226_0954_0041_fin.0.jpg" alt="">
+
+      <!-- Marketing Icons Section -->
+      <div class="row">
+        <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">The Beginning of Virtual Reality</h4>
+            <div class="card-body">
+              <p class="card-text">Virtual reality technologies build upon ideas that date back to the 1800s, almost to the very beginning of practical photography. In 1838, the first stereoscope was invented, using twin mirrors to project a single image. That eventually developed into the View-Master, patented in 1939 and still produced today.</p>
+            </div>
+            <div class="card-footer">
+              <a href="https://www.fi.edu/virtual-reality/history-of-virtual-reality" class="btn btn-primary">Learn More</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">The Early History</h4>
+            <div class="card-body">
+              <p class="card-text">The use of the term "virtual reality", however, was first used in the mid-1980s when Jaron Lanier, founder of VPL Research, began to develop the gear, including goggles and gloves, needed to experience what he called "virtual reality".Today's current virtual reality gear owes a debt of gratitude to the pioneering inventors of the past six decades who paved the way for the low-cost, high-quality devices which are easily accessible.</p>
+            </div>
+            <div class="card-footer">
+              <a href="https://www.vrs.org.uk/virtual-reality/history.html" class="btn btn-primary">Learn More</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">Latest Publicants</h4>
+            <div class="card-body">
+              <p class="card-text">Emphasising the importance of Building Information Modelling (BIM) as facilitator between efficiency of energy and engineering performance, as well as offering the best decision of building sustainable structural designs.</p>
+            </div>
+            <div class="card-footer">
+              <a href="http://veiv.cs.ucl.ac.uk/research/publications" class="btn btn-primary">Learn More</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+
+    </div>
+    <!-- /.container -->
+
+    <!-- Footer -->
+    <footer class="py-5 bg-dark">
+      <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
+      </div>
+      <!-- /.container -->
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/popper/popper.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+  </body>
+
+</html>
